@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @havva-nds
+Null stack software engineer | mern | mean
+
+Node, Angular, JS
 
 
 <!---
